@@ -1,6 +1,6 @@
 ### Eaí! Eu sou o Ronaldo Ferreira
 
-- 🔭 Hoje trabalho como auxiliar administrativo
+- 🔭 Hoje trabalho como técnico em Radiologia
 - 🌱 Estudando Front-End
 
 <div align="center">
