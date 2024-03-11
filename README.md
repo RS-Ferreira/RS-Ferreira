@@ -1,7 +1,7 @@
 ### Eaí! Eu sou o Ronaldo Ferreira
 
 - 🔭 Hoje trabalho como técnico em Radiologia
-- 🌱 Estudando Front-End
+- 🌱 Estudando Full Stack
 
 <div align="center">
   <a href="https://github.com/RS-Ferreira">
