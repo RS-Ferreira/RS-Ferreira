@@ -1,4 +1,4 @@
-### Eaí! Eu sou o Ronaldo Ferreira
+### Eaí! Eu sou  Ronaldo Ferreira
 
 - 🔭 Hoje trabalho como técnico em Radiologia
 - 🌱 Estudando para ser um desenvolvedor full stack 
