@@ -1,8 +1,8 @@
 
 <h1 align="left"> Eaí!, Eu sou  Ronaldo Ferreira <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" ></h1>
 
-- 🔭 Hoje trabalho como técnico em Radiologia
-- 🌱 Estudando para me tornar um desenvolvedor full stack
+- 🔭 Hoje trabalho como técnico em Radiologia e também como auxiliar de produção em uma fábrica.
+- 🌱 Estudando para me tornar um desenvolvedor full stack!
 
 <h1 align="left">Tecnologias</h1>
   <div style="display: inline_block"><br>
